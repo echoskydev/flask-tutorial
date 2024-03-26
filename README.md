@@ -1,4 +1,4 @@
-# Flash framework (Python)
+# Flash Framework (Python)
 https://flask.palletsprojects.com/
 
 ## Intallation
